@@ -1,4 +1,4 @@
-class Geeks
+class LinearSearch
 {
 
   	static int search(int a[], int n, int x)
