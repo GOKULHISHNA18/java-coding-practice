@@ -1,0 +1,17 @@
+JAVA EXECUTION FLOW
+
+1) write java code -----> classname.java
+2)compile -----> javac classname java -------> classname.class(bytecode) --->0,1s
+3)JVM class loader
+4)Execute the bytecode
+5)output
+
+Strings method
+
+1) concat() 
+2) length()
+3) charAt()
+4) equals()
+5) equalsignoreslarge()   
+6) substring(startindex,endindex)
+
